@@ -1,5 +1,4 @@
 blinker==1.8.2
-certifi==2024.8.30
 charset-normalizer==3.3.2
 click==8.1.7
 colorama==0.4.6
@@ -12,3 +11,9 @@ python-dotenv==1.0.1
 requests==2.32.3
 urllib3==2.2.2
 Werkzeug==3.0.4
+djej
+dejpweo
+eidjpe
+eie
+eipdjeaod
+dpeoj
